@@ -1,6 +1,7 @@
 # bootstraploginpage
 This is a login page made by using Bootstrap.<br>
-focus:.container, .row, .col, 
+focus:.container, .row, .col, <br>
+
     <section class="container">
     <div class="row">
         <!--<div class="col-sm-3 col-md-5 col-lg-7 order-first">
